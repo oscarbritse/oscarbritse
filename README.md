@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm a Data Analyst living in Stockholm, Sweden 🇸🇪
+I'm a Lead Data Analyst living in Stockholm, Sweden 🇸🇪
 
 I have a huge passion for building things using open source and ☕
 
